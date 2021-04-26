@@ -6,7 +6,8 @@ body {
   background-image: url(images/crepe1.jpg);
   background-repeat: repeat-y;
   background-position: top;
-  background-size: auto;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 .responsive {
